@@ -25,9 +25,8 @@ a:hover {
   color: #ffffff;    
 }
 
-.black {
+.stefano.black {
   color: #000;
-  opacity: 100%;
 }
 .ui.underline {
   text-decoration: underline;
