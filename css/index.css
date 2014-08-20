@@ -65,7 +65,11 @@ header {
   -o-background-size: cover;
   background-size: cover;
   padding: 250px 0px 250px 0px;
-  margin: 0 auto;  
+  margin: 0 auto;
+}
+
+header > p {
+  color: #000;
 }
 
 #about {
