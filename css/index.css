@@ -103,6 +103,7 @@ header > p {
 #section-five {
   background-color: #cc0000;
   background-image: url(../images/tree_bark.png);
+  h1: repeat;
 }
 
 .tree {
