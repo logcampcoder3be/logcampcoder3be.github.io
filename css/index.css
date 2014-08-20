@@ -25,6 +25,10 @@ a:hover {
   color: #ffffff;    
 }
 
+.black {
+
+  color: #000;
+}
 .ui.underline {
   text-decoration: underline;
 }
