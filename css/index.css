@@ -102,11 +102,11 @@ header > p {
 
 #section-five {
   background-color: #cc0000;
-  background-image: url(../images/tree_bark.png);
+  background-image: url(http://www.cartoonaday.com/images/cartoons/2013/08/sunsewt-forest-scene-cartoon-01-598x386.jpg);
 }
 
 .tree {
-  background: url(../images/tree_bark.png) center; 
+  background: url(http://www.cartoonaday.com/images/cartoons/2013/08/sunsewt-forest-scene-cartoon-01-598x386.jpg) center; 
   padding: 50px 20px 50px 20px;
   margin: 0 auto;
 }
