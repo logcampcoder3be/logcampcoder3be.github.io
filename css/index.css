@@ -7,7 +7,6 @@ html, body {
 h1, h2, h3, h4, h5, h6 {
   font-family: Helvetica, Arial, sans-serif; /* Add your custom font here */
 }
-h1{ font-family: 'Lobster', cursive;}
 
 p {
   font-family: Helvetica, Arial, sans-serif;
@@ -132,6 +131,7 @@ footer {
   background-size: cover;
   padding: 335px 20px 335px 20px;
   margin: 0 auto;
+  h1: font-family: 'Lobster', cursive;
 }
 
 .copyright {
