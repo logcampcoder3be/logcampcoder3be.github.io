@@ -131,6 +131,10 @@ header > p {
 .ui.top.attached.header {
   background-color: #00c9c9;
 }
+.ui.segment.attached {
+  background-color: #00c9c9;
+}
+
 .ui.bottom.attached.header {
   background-color: #00c9c9;
 }
