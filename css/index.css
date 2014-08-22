@@ -131,7 +131,7 @@ header > p {
 .ui.top.attached.header {
   background-color: blue;
 }
-ui.bottom.attached.header {
+.ui.bottom.attached.header {
   background-color: blue;
 }
 
