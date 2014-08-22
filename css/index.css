@@ -131,6 +131,9 @@ header > p {
 .ui.top.attached.header {
   background-color: blue;
 }
+.ui.bottom.attached.footer {
+  background-color: blue;
+}
 
 footer {
   background: url(http://pressandupdate.com/wp-content/uploads/2014/03/pokemon-x-and-y.jpg) no-repeat center; 
